@@ -1,0 +1,25 @@
+.Main {
+      background-color:rgb(33, 179, 179);
+     color: rgb(26, 25, 25);
+     font-family: cursive;
+     height: 100vh;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+    
+}
+.web {
+    margin: 5px;
+    align-content: center;
+    
+}
+
+.photo {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+body {
+    margin: 1;
+}
